@@ -6,6 +6,10 @@
 [![Coverage Status](https://coveralls.io/repos/github/box/spout/badge.svg?branch=master)](https://coveralls.io/github/box/spout?branch=master)
 [![Total Downloads](https://poser.pugx.org/box/spout/downloads)](https://packagist.org/packages/box/spout)
 
+
+<h2 align="center">IMPORTANT</h2>
+<p>This repository is forked from "box/spout". This repository is customized for exceedone/exment.</p>
+
 ## 🪦 Archived project 🪦 
 
 This project has been archived and is no longer maintained. No bug fix and no additional features will be added.<br>
